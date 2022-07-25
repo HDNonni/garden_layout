@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2727e664.chunk.css",
+    "main.js": "/static/js/main.ca3ad026.chunk.js",
+    "main.js.map": "/static/js/main.ca3ad026.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.45be8752.js",
+    "runtime-main.js.map": "/static/js/runtime-main.45be8752.js.map",
+    "static/js/2.4c263aac.chunk.js": "/static/js/2.4c263aac.chunk.js",
+    "static/js/2.4c263aac.chunk.js.map": "/static/js/2.4c263aac.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.3d386020b8d50d13e9fd7cb4f7a9b89f.js": "/precache-manifest.3d386020b8d50d13e9fd7cb4f7a9b89f.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2727e664.chunk.css.map": "/static/css/main.2727e664.chunk.css.map",
+    "static/js/2.4c263aac.chunk.js.LICENSE.txt": "/static/js/2.4c263aac.chunk.js.LICENSE.txt",
+    "static/media/woods_garden.jpg": "/static/media/woods_garden.15867687.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.45be8752.js",
+    "static/js/2.4c263aac.chunk.js",
+    "static/css/main.2727e664.chunk.css",
+    "static/js/main.ca3ad026.chunk.js"
+  ]
+}
